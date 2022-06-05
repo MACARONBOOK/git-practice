@@ -12,5 +12,5 @@ GitHubの機能を試すためのリポジトリです。<br>
 test1_課題1のurl <br>
 https://cb23d8c109ae49bc8b78470e4b14dba5.vfs.cloud9.ap-northeast-1.amazonaws.com/_static/test1-WEBSITE/index.html
 
-20220605
+20220605<br>
 Ruby学習も追加<br>
