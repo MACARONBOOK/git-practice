@@ -19,3 +19,6 @@ test1_課題修正
 20220606<br>
 test1_課題1完成のurl<br>
 https://cb23d8c109ae49bc8b78470e4b14dba5.vfs.cloud9.ap-northeast-1.amazonaws.com/_static/git-practice/test1-WEBSITE/index.html
+
+[課題1.zip](https://github.com/MACARONBOOK/git-practice/files/8841604/1.zip)
+上記の課題1urlが開かれなかった時の候補。
