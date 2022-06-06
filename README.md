@@ -15,3 +15,7 @@ https://cb23d8c109ae49bc8b78470e4b14dba5.vfs.cloud9.ap-northeast-1.amazonaws.com
 20220605<br>
 Ruby学習も追加<br>
 test1_課題修正
+
+20220606<br>
+test1_課題1完成のurl<br>
+https://cb23d8c109ae49bc8b78470e4b14dba5.vfs.cloud9.ap-northeast-1.amazonaws.com/_static/git-practice/test1-WEBSITE/index.html
