@@ -21,3 +21,13 @@ test1_課題1完成のurl<br>
 https://cb23d8c109ae49bc8b78470e4b14dba5.vfs.cloud9.ap-northeast-1.amazonaws.com/_static/git-practice/test1-WEBSITE/index.html
 
 追記:上部のurl開けません。課題1_20220606のHTML/CSSテキストファイルをご確認ください。
+
+20220607<br>
+課題合格(修正点:ボックス間の余白)<br>
+
+20220608<br>
+Railsアプリケーション sample_app作成開始<br>
+
+20220608<br>
+Railsアプリケーション sample_app機能追加<br>
+雛形.モデル.コントローラ.フォーム.保存機能etc.<br>
