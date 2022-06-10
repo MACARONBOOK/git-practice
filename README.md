@@ -28,6 +28,10 @@ https://cb23d8c109ae49bc8b78470e4b14dba5.vfs.cloud9.ap-northeast-1.amazonaws.com
 20220608<br>
 Railsアプリケーション sample_app作成開始<br>
 
-20220608<br>
+20220609<br>
 Railsアプリケーション sample_app機能追加<br>
 雛形.モデル.コントローラ.フォーム.保存機能etc.<br>
+
+20220610<br>
+Railsアプリケーション sample_app機能追加<br>
+編集機能.削除機能.バリデーション.一部レイアウト調整.etc.<br>
