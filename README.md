@@ -35,3 +35,9 @@ Railsアプリケーション sample_app機能追加<br>
 20220610<br>
 Railsアプリケーション sample_app機能追加<br>
 編集機能.削除機能.バリデーション.一部レイアウト調整.etc.<br>
+
+20220612<br>
+Railsアプリケーション r spec対応完了<br>
+
+20220613<br>
+Railsアプリケーション
