@@ -45,3 +45,6 @@ Rails Application Any errors clear(26/29件→0/29件)<br>
 
 20220614<br>
 Rails application meshiterro start!<br>
+learning devise how to check users<br>
+
+
