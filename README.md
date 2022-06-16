@@ -50,3 +50,8 @@ learning devise how to check users<br>
 20220615<br>
 Rails application meshiterro adding User authentication function<br>
 
+20220616<br>
+Rails application meshiterro adding Posting function<br>
+
+20220617<br>
+<br>
