@@ -54,4 +54,10 @@ Rails application meshiterro adding User authentication function<br>
 Rails application meshiterro adding Posting function<br>
 
 20220617<br>
+Rails application meshiterro adding destroy/update function<br>
+
+20220618<br>
 <br>
+
+20220619<br>
+can start test3?<br>
