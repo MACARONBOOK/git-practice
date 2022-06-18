@@ -9,18 +9,18 @@ Learning Content<br>
 GitHubの機能を試すためのリポジトリです。<br>
 
 20220604<br>
-test1_課題1のurl <br>
+test1_test1のurl <br>
 https://cb23d8c109ae49bc8b78470e4b14dba5.vfs.cloud9.ap-northeast-1.amazonaws.com/_static/test1-WEBSITE/index.html
 
 20220605<br>
 Begin to learn Ruby<br>
-test1_課題修正
+test1_test1修正
 
 20220606<br>
-test1_課題1完成のurl<br>
+test1_test1完成のurl<br>
 https://cb23d8c109ae49bc8b78470e4b14dba5.vfs.cloud9.ap-northeast-1.amazonaws.com/_static/git-practice/test1-WEBSITE/index.html
 
-追記:I can’t open these url. 課題1_20220606 HTML/CSStext-file.<br>
+追記:I can’t open these url. test1_20220606 HTML/CSStext-file.<br>
 
 20220607<br>
 課題合格(修正点:ボックス間の余白)<br>
@@ -30,11 +30,11 @@ Rails Application sample_app start!<br>
 
 20220609<br>
 Rails Application sample_app adding function<br>
-雛形.モデル.コントローラ.フォーム.保存機能etc.<br>
+Template.model.controller.form.save functionetc.<br>
 
 20220610<br>
 Rails Application sample_app adding more function<br>
-編集機能.削除機能.バリデーション.一部レイアウト調整.etc.<br>
+edit/delete function.validation.一部layout調整.etc.<br>
 
 20220612<br>
 Rails Application rename to bookers<br>
@@ -61,7 +61,8 @@ Rails application meshiterro adding validation/authenticate function<br>
 install kaminari(paginate), division template<br>
 
 20220619<br>
-Rails application meshiterro adding bootstrap?
+Rails application meshiterro adding bootstrap?<br>
+create new repository bootstrap_template-main to LAYOUTwithBOOTSTRAP<br>
 can start test3→booker2?<br>
 
 20220620<br>
