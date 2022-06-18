@@ -57,7 +57,11 @@ Rails application meshiterro adding Posting function<br>
 Rails application meshiterro adding destroy/update function<br>
 
 20220618<br>
-<br>
+Rails application meshiterro adding validation/authenticate function<br>
+install kaminari(paginate), division template<br>
 
 20220619<br>
-can start test3?<br>
+Rails application meshiterro adding bootstrap?
+can start test3→booker2?<br>
+
+20220620<br>
