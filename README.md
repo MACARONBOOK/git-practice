@@ -63,6 +63,10 @@ install kaminari(paginate), division template<br>
 20220619<br>
 Rails application meshiterro adding bootstrap?<br>
 create new repository bootstrap_template-main to LAYOUTwithBOOTSTRAP<br>
-can start test3→booker2?<br>
+start test3→not booker2, travelers<br>
 
 20220620<br>
+<br>
+<>
+<>
+<>
