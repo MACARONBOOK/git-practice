@@ -69,5 +69,14 @@ start test3→not booker2, travelers<br>
 Rails application travelers adding functions<br>
 create MCV(user,book), install gem(devise,kaminari),bootstrap,ActiveStorage<br>
 
-<>
-<>
+20220621<br>
+<br>
+
+20220622<br>
+<br>
+
+20220623<br>
+<br>
+
+20220624<br>
+<br>
