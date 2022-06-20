@@ -66,7 +66,8 @@ create new repository bootstrap_template-main to LAYOUTwithBOOTSTRAP<br>
 start test3→not booker2, travelers<br>
 
 20220620<br>
-<br>
-<>
+Rails application travelers adding functions<br>
+create MCV(user,book), install gem(devise,kaminari),bootstrap,ActiveStorage<br>
+
 <>
 <>
