@@ -70,7 +70,8 @@ Rails application travelers adding functions<br>
 create MCV(user,book), install gem(devise,kaminari),bootstrap,ActiveStorage<br>
 
 20220621<br>
-<br>
+Rails application travelers fixing functions<br>
+Log-out, <br>
 
 20220622<br>
 <br>
