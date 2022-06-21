@@ -71,7 +71,7 @@ create MCV(user,book), install gem(devise,kaminari),bootstrap,ActiveStorage<br>
 
 20220621<br>
 Rails application travelers fixing functions<br>
-Log-out, <br>
+Log-out, try to fix views<br>
 
 20220622<br>
 <br>
