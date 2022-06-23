@@ -20,10 +20,10 @@ test1_test1修正
 test1_test1完成のurl<br>
 https://cb23d8c109ae49bc8b78470e4b14dba5.vfs.cloud9.ap-northeast-1.amazonaws.com/_static/git-practice/test1-WEBSITE/index.html
 
-追記:I can’t open these url. test1_20220606 HTML/CSStext-file.<br>
+ADDING THAT:I can’t open these url. test1_20220606 HTML/CSStext-file.<br>
 
 20220607<br>
-課題合格(修正点:ボックス間の余白)<br>
+clear test1(修正点:ボックス間の余白)<br>
 
 20220608<br>
 Rails Application sample_app start!<br>
@@ -80,7 +80,7 @@ Error 70→55→80<br>
 20220623<br>
 Rails application travelers rename to bookerⅡ<br>
 errors cleared 80→55→39→4→0<br>
-
+learn GitHub system history<br>
 
 20220624<br>
 <br>
