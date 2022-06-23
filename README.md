@@ -74,10 +74,13 @@ Rails application travelers fixing functions<br>
 Log-out, try to fix views<br>
 
 20220622<br>
-<br>
+Rails application travelers input rspec again<br>
+Error 70→55→80<br>
 
 20220623<br>
-<br>
+Rails application travelers rename to bookerⅡ<br>
+errors cleared 80→55→39→4→0<br>
+
 
 20220624<br>
 <br>
