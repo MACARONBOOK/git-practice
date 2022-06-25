@@ -86,7 +86,8 @@ learn GitHub system history<br>
 feedback bookersⅡ at GitHub<br>
 
 20220625<br>
-<br>
+Rails application bookersⅡ revenge<br>
+try to fix bookers1-debug<br>
 
 20220626<br>
 <br>
