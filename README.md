@@ -90,4 +90,17 @@ Rails application bookersⅡ revenge<br>
 try to fix bookers1-debug<br>
 
 20220626<br>
+Rails application bookersⅡ,bookers1&2-debug clear<br>
+
+20220627<br>
 <br>
+
+20220628<br>
+<br>
+
+20220629<br>
+<br>
+
+20220630<br>
+<br>
+
