@@ -93,7 +93,8 @@ try to fix bookers1-debug<br>
 Rails application bookersⅡ,bookers1&2-debug clear<br>
 
 20220627<br>
-<br>
+Rails application bookers2-debug add like-it function<br>
+alert:cannot count it(maybe cannot find favorite_id,data)<br>
 
 20220628<br>
 <br>
