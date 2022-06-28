@@ -97,7 +97,8 @@ Rails application bookers2-debug add like-it function<br>
 alert:cannot count it(maybe cannot find favorite_id,data)<br>
 
 20220628<br>
-<br>
+Rails application bookers2-debug clear like-it function<br>
+add & recover comment function, learn at deploy-key(GitHub)<br>
 
 20220629<br>
 <br>
