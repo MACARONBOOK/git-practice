@@ -101,7 +101,8 @@ Rails application bookers2-debug clear like-it function<br>
 add & recover comment function, learn at deploy-key(GitHub)<br>
 
 20220629<br>
-<br>
+Rails application bookers2-debug add followed/follower function<br>
+learn leet by ruby<br>
 
 20220630<br>
 <br>
