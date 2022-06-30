@@ -1,5 +1,7 @@
 # git-practice
 
+* June
+
 20220602-03<br>
 HTML/CSS <br>
 Create framework of Webpage<br>
@@ -105,5 +107,45 @@ Rails application bookers2-debug add followed/follower function<br>
 learn leet by ruby<br>
 
 20220630<br>
+Rails application bookers2-debug try to adding Ajax(but failure)<br>
+
+* July
+
+20220701<br>
 <br>
 
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
