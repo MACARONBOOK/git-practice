@@ -112,40 +112,99 @@ Rails application bookers2-debug try to adding Ajax(but failure)<br>
 * July
 
 20220701<br>
+Rails application bookers2-debug try to do test (can check Ajax, but get error!)<br>
+
+20220702<br>
 <br>
 
-<br>
-<br>
-
-<br>
+20220703<br>
 <br>
 
-<br>
-<br>
-
-<br>
+20220704<br>
 <br>
 
-<br>
-<br>
-
-<br>
+20220705<br>
 <br>
 
-<br>
-<br>
-
-<br>
+20220706<br>
 <br>
 
-<br>
-<br>
-
-<br>
+20220707<br>
 <br>
 
-<br>
+20220708<br>
 <br>
 
+20220709<br>
 <br>
+
+20220710<br>
+<br>
+
+20220711<br>
+<br>
+
+20220712<br>
+<br>
+
+20220713<br>
+<br>
+
+20220714<br>
+<br>
+
+20220715<br>
+<br>
+
+20220716<br>
+<br>
+
+20220717<br>
+<br>
+
+20220718<br>
+<br>
+
+20220719<br>
+<br>
+
+20220720<br>
+<br>
+
+20220721<br>
+<br>
+
+20220722<br>
+<br>
+
+20220723<br>
+<br>
+
+20220724<br>
+<br>
+
+20220725<br>
+<br>
+
+20220726<br>
+<br>
+
+20220727<br>
+<br>
+
+20220728<br>
+<br>
+
+20220729<br>
+<br>
+
+20220730<br>
+<br>
+
+20220731<br>
+<br>
+
+* August
+
+20220801<br>
 <br>
