@@ -113,6 +113,7 @@ Rails application bookers2-debug try to adding Ajax(but failure)<br>
 
 20220701<br>
 Rails application bookers2-debug try to do test (can check Ajax, but get error!)<br>
+recover Ajax, error was un-unify class-tag with js & view<br>
 
 20220702<br>
 <br>
