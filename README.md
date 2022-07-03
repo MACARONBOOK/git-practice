@@ -116,10 +116,10 @@ Rails application bookers2-debug try to do test (can check Ajax, but get error!)
 recover Ajax, error was un-unify class-tag with js & view<br>
 
 20220702<br>
-<br>
+Rails application bookers2-debug recover Ajax-function<br>
 
 20220703<br>
-<br>
+Rails application bookers2-debug rename to 2-2<br>
 
 20220704<br>
 <br>
