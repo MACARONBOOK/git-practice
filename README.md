@@ -122,7 +122,8 @@ Rails application bookers2-debug recover Ajax-function<br>
 Rails application bookers2-debug rename to 2-2<br>
 
 20220704<br>
-Rails application bookers_SNScafe create start ~ <br>
+Rails application bookers_SNScafe create start ~ add normal-function<br>
+→ like-it,comment,follow(er),search,ajax<br>
 
 20220705<br>
 <br>
