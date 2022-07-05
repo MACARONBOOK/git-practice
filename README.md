@@ -126,10 +126,12 @@ Rails application bookers_SNScafe create start ~ add normal-function<br>
 → like-it,comment,follow(er),search,ajax<br>
 
 20220705<br>
-<br>
+Rails application bookers_SNScafe add DM-function<br>
+can display chat-button while you&anyone following each other,<br>
+entry and write message on chat-room.<br>
 
 20220706<br>
-<br>
+Rails application bookers_SNScafe<br>
 
 20220707<br>
 <br>
