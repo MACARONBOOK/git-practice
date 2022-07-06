@@ -131,7 +131,7 @@ can display chat-button while you&anyone following each other,<br>
 entry and write message on chat-room.<br>
 
 20220706<br>
-Rails application bookers_SNScafe<br>
+Rails application bookers_SNScafe add impressionist_count👀<br>
 
 20220707<br>
 <br>
