@@ -134,10 +134,10 @@ entry and write message on chat-room.<br>
 Rails application bookers_SNScafe add impressionist_count👀<br>
 
 20220707<br>
-<br>
+Rails application bookers_SNScafe feedback on chart.js and turbolinks<br>
 
 20220708<br>
-<br>
+Rails application bookers_Connect-cafe created<br>
 
 20220709<br>
 <br>
