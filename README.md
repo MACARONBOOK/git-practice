@@ -138,6 +138,8 @@ Rails application bookers_SNScafe feedback on chart.js and turbolinks<br>
 
 20220708<br>
 Rails application bookers_Connect-cafe created<br>
+create view and can create&use group-function<br>
+next→ TRY mailer-function!!<br>
 
 20220709<br>
 <br>
