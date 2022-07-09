@@ -142,7 +142,8 @@ create view and can create&use group-function<br>
 next→ TRY mailer-function!!<br>
 
 20220709<br>
-<br>
+Rails application bookers_Connect-cafe add mailer-function<br>
+add dontev-rails(gem), adjust app_environment<br> 
 
 20220710<br>
 <br>
