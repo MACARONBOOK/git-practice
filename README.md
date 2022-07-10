@@ -146,7 +146,7 @@ Rails application bookers_Connect-cafe add mailer-function<br>
 add dontev-rails(gem), adjust app_environment<br> 
 
 20220710<br>
-<br>
+Rails application bookers_Connect-cafe check adding-function<br>
 
 20220711<br>
 <br>
