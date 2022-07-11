@@ -151,9 +151,10 @@ Rails application bookers_Connect-cafe check adding-function<br>
 20220711<br>
 Rails application bookers_Review-cafe add star-Review, change-order(latest,old,star_count)<br>
 +α change time-zone to Asia/Tokyo, created-time on index<br>
+add Tag(category) at form & search-function, recover div/td tag(input of end)<br>
 
 20220712<br>
-<br>
+Rails application <br>
 
 20220713<br>
 <br>
