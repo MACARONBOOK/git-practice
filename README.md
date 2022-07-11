@@ -149,7 +149,8 @@ add dontev-rails(gem), adjust app_environment<br>
 Rails application bookers_Connect-cafe check adding-function<br>
 
 20220711<br>
-<br>
+Rails application bookers_Review-cafe add star-Review, change-order(latest,old,star_count)<br>
++α change time-zone to Asia/Tokyo, created-time on index<br>
 
 20220712<br>
 <br>
