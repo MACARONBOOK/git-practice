@@ -154,7 +154,8 @@ Rails application bookers_Review-cafe add star-Review, change-order(latest,old,s
 add Tag(category) at form & search-function, recover div/td tag(input of end)<br>
 
 20220712<br>
-Rails application <br>
+Rails application Team MSEK start→ create... team-building, WBS, ER(drawio)after UI-flows<br>
+ER submit tommorow, create table-define-sheet<br>
 
 20220713<br>
 <br>
