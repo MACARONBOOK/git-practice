@@ -158,7 +158,9 @@ Rails application Team MSEK start→ create... team-building, WBS, ER(drawio)aft
 ER submit tommorow, create table-define-sheet<br>
 
 20220713<br>
-Team MSEK submit ER, start table-define-sheet<br>
+Team MSEK submit ER, editing, re-submit tommorrow<br>
+learning GitHub how to use group-work(projects) & merge-method<br>
+start table-define-sheet tommorrow<br>
 
 20220714<br>
 <br>
