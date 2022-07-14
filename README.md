@@ -163,7 +163,8 @@ learning GitHub how to use group-work(projects) & merge-method<br>
 start table-define-sheet tommorrow<br>
 
 20220714<br>
-<br>
+Team MSEK submit ER(Eng→Jpn), clear<br>
+table-define-sheet add s(es) to table-name<br>
 
 20220715<br>
 <br>
