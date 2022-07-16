@@ -149,19 +149,25 @@ add dontev-rails(gem), adjust app_environment<br>
 Rails application bookers_Connect-cafe check adding-function<br>
 
 20220711<br>
-<br>
+Rails application bookers_Review-cafe add star-Review, change-order(latest,old,star_count)<br>
++α change time-zone to Asia/Tokyo, created-time on index<br>
+add Tag(category) at form & search-function, recover div/td tag(input of end)<br>
 
 20220712<br>
-<br>
+Rails application Team MSEK start→ create... team-building, WBS, ER(drawio)after UI-flows<br>
+ER submit tommorow, create table-define-sheet<br>
 
 20220713<br>
-<br>
+Team MSEK submit ER, editing, re-submit tommorrow<br>
+learning GitHub how to use group-work(projects) & merge-method<br>
+start table-define-sheet tommorrow<br>
 
 20220714<br>
-<br>
+Team MSEK submit ER(Eng→Jpn), clear<br>
+table-define-sheet add s(es) to table-name<br>
 
 20220715<br>
-<br>
+Team MSEK submit app-detail-sheet, create Projects & Repository Nagano-cake<br>
 
 20220716<br>
 <br>
