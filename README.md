@@ -143,7 +143,7 @@ next→ TRY mailer-function!!<br>
 
 20220709<br>
 Rails application bookers_Connect-cafe add mailer-function<br>
-add dontev-rails(gem), adjust app_environment<br> 
+add dontev-rails(gem), adjust app_environment<br>
 
 20220710<br>
 Rails application bookers_Connect-cafe check adding-function<br>
@@ -170,7 +170,7 @@ table-define-sheet add s(es) to table-name<br>
 Team MSEK submit app-detail-sheet, create Projects & Repository Nagano-cake<br>
 
 20220716<br>
-<br>
+Team MSEK create repository practice how to switch branch and use pull-request<br>
 
 20220717<br>
 <br>
