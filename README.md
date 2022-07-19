@@ -173,10 +173,10 @@ Team MSEK submit app-detail-sheet, create Projects & Repository Nagano-cake<br>
 Team MSEK create repository practice how to switch branch and use pull-request<br>
 
 20220717<br>
-<br>
+Team MSEK create repository Nagano_cake, create active-branch and model/controller/route<br>
 
 20220718<br>
-<br>
+Team MSEK create function under develop-branch<br>
 
 20220719<br>
 <br>
