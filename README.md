@@ -179,10 +179,12 @@ Team MSEK create repository Nagano_cake, create active-branch and model/controll
 Team MSEK create function under develop-branch<br>
 
 20220719<br>
-<br>
+Team MSEK create customers/show,index, <br>
+solve error why cannot take items on cart, edit about-page & add pagination<br>
 
 20220720<br>
-<br>
+Team MSEK edit customers/edit→confirm→withdraw(how to move and delete customer'si nfo)<br>
+Delete other-navbar & edit layout,logo-img, change flash-message to japanese(devise.ja)<br>
 
 20220721<br>
 <br>
