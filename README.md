@@ -187,7 +187,7 @@ Team MSEK edit customers/edit→confirm→withdraw(how to move and delete custom
 Delete other-navbar & edit layout,logo-img, change flash-message to japanese(devise.ja)<br>
 
 20220721<br>
-<br>
+Team MSEK create orders-detail(show,index),edit 2-navbar to unite<br>
 
 20220722<br>
 <br>
