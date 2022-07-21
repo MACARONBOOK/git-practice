@@ -188,7 +188,8 @@ Delete other-navbar & edit layout,logo-img, change flash-message to japanese(dev
 
 20220721<br>
 Team MSEK create orders-detail(show,index),edit 2-navbar to unite<br>
-write first "Issue" how to use the activity<br>
+write first "Issue" how to use the activity, fix order-function(can buy by new-address³) & layout(public/orders/index,show)<br>
+create new repository Berry_BitterSweets & add format(M/Con/V/Gem/mig/route)<br>
 
 20220722<br>
 <br>
