@@ -188,6 +188,7 @@ Delete other-navbar & edit layout,logo-img, change flash-message to japanese(dev
 
 20220721<br>
 Team MSEK create orders-detail(show,index),edit 2-navbar to unite<br>
+write first "Issue" how to use the activity<br>
 
 20220722<br>
 <br>
