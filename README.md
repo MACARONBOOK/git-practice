@@ -192,13 +192,15 @@ write first "Issue" how to use the activity, fix order-function(can buy by new-a
 create new repository Berry_BitterSweets & add format(M/Con/V/Gem/mig/route)<br>
 
 20220722<br>
-<br>
+Team MSEK start-to-fix errors of all<br>
+problem → not separate active-branch & not push to develop-branch(unit-branch)<br>
 
 20220723<br>
-<br>
+Team MSEK try to fix errors with test-sheet<br>
+problem → not get together on group, not share problems<br>
 
 20220724<br>
-<br>
+Team MSEK reset rule which improve progress (how to solve-problems & put them in one) <br>
 
 20220725<br>
 <br>
