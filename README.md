@@ -231,7 +231,9 @@ create each-them(ER, table-sheet, portfolio-function-sheet)<br>
 learning how to create AWS EC2 environment, deploy ... but cannot understand by once<br>
 
 20220802<br>
-<br>
+learning how to login EC2 with SSH(→resolved!) ... but failed edit volume&instace so deleted DWC environment at once<br>
+reseted CL9(→only have git-practice, try to connect l-to-r), install Nginx, MySQL-client on newCL9env<br>
+just create next-stage(deploy) and restart to study functions-flow, check function-list. create ui-flow and WBS(on the way)<br>
 
 20220803<br>
 <br>
