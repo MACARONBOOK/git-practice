@@ -236,10 +236,10 @@ reseted CL9(→only have git-practice, try to connect l-to-r), install Nginx, My
 just create next-stage(deploy) and restart to study functions-flow, check function-list. create ui-flow and WBS(on the way)<br>
 
 20220803<br>
-<br>
+setting deploy(before env)<br>
 
 20220804<br>
-<br>
+setting<br>
 
 20220805<br>
 <br>
