@@ -239,13 +239,14 @@ just create next-stage(deploy) and restart to study functions-flow, check functi
 setting deploy(before env)<br>
 
 20220804<br>
-setting<br>
+setting deploy→ check SSH-key and connected<br>
 
 20220805<br>
-<br>
+restart create app (MVC- home/about)<br>
 
 20220806<br>
-<br>
+create function, but cannot display bootstrap(resolved!)<br>
+get error 'invalid email or nickname' →cannot login(only create account)… try to finding cause<br> 
 
 20220807<br>
 <br>
