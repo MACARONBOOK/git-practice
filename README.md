@@ -249,7 +249,8 @@ create function, but cannot display bootstrap(resolved!)<br>
 get error 'invalid email or nickname' →cannot login(only create account)… try to finding cause<br> 
 
 20220807<br>
-<br>
+create function, resolve login-error(but auto-clear so disunderstand)<br>
+get error 'no implicit conversion of Symbol into Integer'(TypeError)→ on RecipesController#create<br>
 
 20220808<br>
 <br>
