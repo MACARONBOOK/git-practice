@@ -253,10 +253,11 @@ create function, resolve login-error(but auto-clear so disunderstand)<br>
 get error 'no implicit conversion of Symbol into Integer'(TypeError)→ on RecipesController#create<br>
 
 20220808<br>
-<br>
+learning how to add image → choose: ActiveStorage(upload)/mini-Magik(sizing)<br>
+method: get_image(written by curriculum), add file(storage.yml) cause installed after deploy<br>
 
 20220809<br>
-<br>
+create&edit recipe-form, can submit! feedback→ spell-miss, name-rules, arguments<br>
 
 20220810<br>
 <br>
