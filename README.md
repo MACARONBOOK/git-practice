@@ -258,6 +258,7 @@ method: get_image(written by curriculum), add file(storage.yml) cause installed 
 
 20220809<br>
 create&edit recipe-form, can submit! feedback→ spell-miss, name-rules, arguments<br>
+...edit profile, can change image!!<br>
 
 20220810<br>
 <br>
