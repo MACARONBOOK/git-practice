@@ -261,7 +261,8 @@ create&edit recipe-form, can submit! feedback→ spell-miss, name-rules, argumen
 ...edit profile, can change image!!<br>
 
 20220810<br>
-<br>
+create recipes/show,index(partial→ recipe_list, recipe_tag_list,bookmark), can display recipe-image<br>
+edit 2page of scss, change visual<br>
 
 20220811<br>
 <br>
