@@ -265,7 +265,9 @@ create recipes/show,index(partial→ recipe_list, recipe_tag_list,bookmark), can
 edit 2page of scss, change visual<br>
 
 20220811<br>
-<br>
+create scss-files most-of-all, following/followed function can move as HTML <br>
+edit recipes/show & homes/top(cause: affected by scss), create&pick up image(introduction.png)<br>
+create&check how to login guest → OK<br>
 
 20220812<br>
 <br>
