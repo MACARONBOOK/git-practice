@@ -270,7 +270,7 @@ edit recipes/show & homes/top(cause: affected by scss), create&pick up image(int
 create&check how to login guest → OK<br>
 
 20220812<br>
-<br>
+edit header(toggle-icon can move),follow-function cannot move(failure: find User without ID)<br>
 
 20220813<br>
 <br>
