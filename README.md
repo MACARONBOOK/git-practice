@@ -273,10 +273,10 @@ create&check how to login guest → OK<br>
 edit header(toggle-icon can move),follow-function cannot move(failure: find User without ID)<br>
 
 20220813<br>
-<br>
+reduce extra-files(has many scss-file&method)<br>
 
 20220814<br>
-<br>
+fix follow-function<br>
 
 20220815<br>
 <br>
