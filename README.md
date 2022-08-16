@@ -279,10 +279,10 @@ reduce extra-files(has many scss-file&method)<br>
 fix follow-function<br>
 
 20220815<br>
-<br>
+learn about package.json(because missing this file)<br>
 
 20220816<br>
-<br>
+select files(add&delete files→ anyone not working)<br>
 
 20220817<br>
 <br>
