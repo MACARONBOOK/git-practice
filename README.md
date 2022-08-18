@@ -285,10 +285,11 @@ learn about package.json(because missing this file)<br>
 select files(add&delete files→ anyone not working)<br>
 
 20220817<br>
-<br>
+Nothing to practice about ruby, write&check test-sheet<br>
 
 20220818<br>
-<br>
+delete follow(because not neccesary for the concept), add notification-function(can look movement-information)<br>
+edit skill-sheet<br>
 
 20220819<br>
 <br>
