@@ -292,7 +292,7 @@ delete follow(because not neccesary for the concept), add notification-function(
 edit skill-sheet<br>
 
 20220819<br>
-<br>
+edit top-page, change image&button&css(margin)<br>
 
 20220820<br>
 <br>
