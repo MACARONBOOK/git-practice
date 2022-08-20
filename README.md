@@ -295,7 +295,7 @@ edit skill-sheet<br>
 edit top-page, change image&button&css(margin)<br>
 
 20220820<br>
-<br>
+check with test-sheet(page-transition, test-function)<br>
 
 20220821<br>
 <br>
