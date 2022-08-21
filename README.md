@@ -303,6 +303,7 @@ but cannot connect tag & image to Recipe's table → tag add at edit, image set 
 
 20220822<br>
 check with test-sheet(page-transition, test-function)<br>
+challenge test-deploy until 19:00(just display app on production-environment)<br>
 
 20220823<br>
 <br>
