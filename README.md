@@ -298,10 +298,11 @@ edit top-page, change image&button&css(margin)<br>
 write about-page(+add images), edit responsive(600/900)<br>
 
 20220821<br>
-check with test-sheet(page-transition, test-function)<br>
+before deploy, prepare test-data on db/seeds.rb(user,tag,recipe)<br>
+but cannot connect tag & image to Recipe's table → tag add at edit, image set nill<br>
 
 20220822<br>
-<br>
+check with test-sheet(page-transition, test-function)<br>
 
 20220823<br>
 <br>
