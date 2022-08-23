@@ -307,10 +307,12 @@ challenge test-deploy until 19:00(just display app on production-environment)<br
 →failure, have an syntax error on EC2(/etc/nginx/nginx.conf:40), I can't find wrong-point<br>
 
 20220823<br>
-<br>
+success test-deploy, syntax error exist on Torioki_Recipe.conf, so fixed it<br>
+error on ec2→ seeds-data cannot send to Rails_ENV=production(don't send it),<br>
+              cannot display any pages and logo-img(change description to image_tag, because Rails_ENV=production use it)<br>
 
 20220824<br>
-<br>
+write career-sheet(rere:submit) / if any times,try to move app on production<br>
 
 20220825<br>
 <br>
