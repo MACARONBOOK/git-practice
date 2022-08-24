@@ -312,7 +312,7 @@ error on ec2→ seeds-data cannot send to Rails_ENV=production(don't send it),<b
               cannot display any pages and logo-img(change description to image_tag, because Rails_ENV=production use it)<br>
 
 20220824<br>
-write career-sheet(rere:submit) / if any times,try to move app on production<br>
+write career-sheet(rere:submit) / if any times,try to move app on production→×<br>
 
 20220825<br>
 <br>
