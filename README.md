@@ -315,7 +315,7 @@ error on ec2→ seeds-data cannot send to Rails_ENV=production(don't send it),<b
 write career-sheet(rere:submit) / if any times,try to move app on production→×<br>
 
 20220825<br>
-<br>
+check & try seeds-data on develop/production-env→ success!!<br>
 
 20220826<br>
 <br>
