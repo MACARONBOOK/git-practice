@@ -318,7 +318,8 @@ write career-sheet(rere:submit) / if any times,try to move app on production→�
 check & try seeds-data on develop/production-env→ success!!<br>
 
 20220826<br>
-<br>
+create recipe-search(keyword) with ransack→ ok!<br>
+challenge css→ add line(dashed/dotted), checked noticification a-bit<br>
 
 20220827<br>
 <br>
