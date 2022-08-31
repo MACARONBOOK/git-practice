@@ -322,19 +322,19 @@ create recipe-search(keyword) with ransack→ ok!<br>
 challenge css→ add line(dashed/dotted), checked noticification a-bit<br>
 
 20220827<br>
-<br>
+rewrite test-data, how to move app on ngnix<br>
 
 20220828<br>
-<br>
+fix errors on environments, login & admin<br>
 
 20220829<br>
-<br>
+submit portfolio, check width of Iphone<br>
 
 20220830<br>
-<br>
+create presentation-slide<br>
 
 20220831<br>
-<br>
+do presentation of portfolio<br>
 
 * September
 
