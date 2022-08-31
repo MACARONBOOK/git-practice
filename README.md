@@ -334,7 +334,10 @@ submit portfolio, check width of Iphone<br>
 create presentation-slide<br>
 
 20220831<br>
-do presentation of portfolio<br>
+do presentation of portfolio & feedback to it studying, skedule, function, their-reasons<br>
+thinking how-to-start-studying from tomorrow (finish the course-period)<br>
+→ restudy curriculum, get new bibbles, check understanding-of-field(html,css,ruby,ruby-on-rails,functions,methods,javascript,aws,git...etc.)<br>
+try these content next-days<br>
 
 * September
 
