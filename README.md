@@ -342,7 +342,7 @@ try these content next-days<br>
 * September
 
 20220901<br>
-<br>
+learning about API(how to login GOOGLE), check route (GET 404/505-page)<br>
 
 20220902<br>
 <br>
