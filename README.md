@@ -345,7 +345,7 @@ try these content next-days<br>
 learning about API(how to login GOOGLE), check route (GET 404/505-page)<br>
 
 20220902<br>
-<br>
+add portfolio-information on README<br>
 
 20220903<br>
 <br>
