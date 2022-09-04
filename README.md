@@ -348,10 +348,10 @@ learning about API(how to login GOOGLE), check route (GET 404/505-page)<br>
 add portfolio-information on README<br>
 
 20220903<br>
-<br>
+check how to update github (README, issue, git-flow ...those activity)<br>
 
 20220904<br>
-<br>
+check instance & security-group(how to operate app)<br>
 
 20220905<br>
 <br>
