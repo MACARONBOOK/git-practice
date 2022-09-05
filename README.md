@@ -354,7 +354,7 @@ check how to update github (README, issue, git-flow ...those activity)<br>
 check instance & security-group(how to operate app)<br>
 
 20220905<br>
-<br>
+learning IT-field, how to collect information<br>
 
 20220906<br>
 <br>
