@@ -357,10 +357,10 @@ check instance & security-group(how to operate app)<br>
 learning IT-field, how to collect information<br>
 
 20220906<br>
-<br>
+input by reference book of GIT<br>
 
 20220907<br>
-<br>
+input by reference book of AWS<br>
 
 20220908<br>
 <br>
