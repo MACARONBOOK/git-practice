@@ -363,10 +363,11 @@ input by reference book of GIT<br>
 input by reference book of AWS<br>
 
 20220908<br>
-<br>
+do test on portfolio (inspection)<br>
 
 20220909<br>
-<br>
+simulation of online-interview(main questions)<br>
+create drawing of app<br>
 
 20220910<br>
 <br>
