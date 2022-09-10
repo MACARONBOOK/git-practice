@@ -370,7 +370,7 @@ simulation of online-interview(main questions)<br>
 create drawing of app<br>
 
 20220910<br>
-<br>
+create ER diagram of new app<br>
 
 20220911<br>
 <br>
