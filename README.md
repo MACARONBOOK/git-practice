@@ -373,7 +373,7 @@ create drawing of app<br>
 create ER diagram of new app<br>
 
 20220911<br>
-<br>
+editing ER diagram which add any functions<br>
 
 20220912<br>
 <br>
