@@ -376,10 +376,10 @@ create ER diagram of new app<br>
 editing ER diagram which add any functions<br>
 
 20220912<br>
-<br>
+learning Ruby (practice by problems)<br>
 
 20220913<br>
-<br>
+learning Ruby (practice by problems)<br>
 
 20220914<br>
 <br>
