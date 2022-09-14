@@ -382,7 +382,7 @@ learning Ruby (practice by problems)<br>
 learning Ruby (practice by problems)<br>
 
 20220914<br>
-<br>
+practice Ruby on sites(check input to output)<br>
 
 20220915<br>
 <br>
