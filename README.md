@@ -388,10 +388,10 @@ practice Ruby on sites(check input to output)<br>
 do skill-test by sites(Ruby code)<br>
 
 20220916<br>
-<br>
+practice ruby methods<br>
 
 20220917<br>
-<br>
+practice ruby methods(learn codes)<br>
 
 20220918<br>
 <br>
