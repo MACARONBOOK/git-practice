@@ -394,7 +394,7 @@ practice ruby methods<br>
 practice ruby methods(learn codes)<br>
 
 20220918<br>
-<br>
+re-study curiculumn about javascript<br>
 
 20220919<br>
 <br>
