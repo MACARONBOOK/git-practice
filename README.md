@@ -400,7 +400,7 @@ re-study curiculumn about javascript<br>
 studying curiculumn about javascript<br>
 
 20220920<br>
-<br>
+practice javascript on problems<br>
 
 20220921<br>
 <br>
