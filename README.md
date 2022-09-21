@@ -403,7 +403,7 @@ studying curiculumn about javascript<br>
 practice javascript on problems<br>
 
 20220921<br>
-<br>
+feedback mathematics for calculation<br>
 
 20220922<br>
 <br>
