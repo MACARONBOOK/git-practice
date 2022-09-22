@@ -406,7 +406,7 @@ practice javascript on problems<br>
 feedback mathematics for calculation<br>
 
 20220922<br>
-<br>
+feedback mathematics for calculation, check my calculation-skill<br>
 
 20220923<br>
 <br>
