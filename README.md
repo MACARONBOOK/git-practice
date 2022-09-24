@@ -412,7 +412,7 @@ feedback mathematics for calculation, check my calculation-skill<br>
 practice javascript calculation<br>
 
 20220924<br>
-<br>
+check movement of portfolio, feedback ajax<br>
 
 20220925<br>
 <br>
