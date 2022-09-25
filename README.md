@@ -415,10 +415,10 @@ practice javascript calculation<br>
 check movement of portfolio, feedback ajax<br>
 
 20220925<br>
-<br>
+using java on other sites<br>
 
 20220926<br>
-<br>
+practice java on VSC & dokojava<br>
 
 20220927<br>
 <br>
