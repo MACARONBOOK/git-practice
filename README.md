@@ -421,7 +421,7 @@ using java on other sites<br>
 practice java on VSC & dokojava<br>
 
 20220927<br>
-<br>
+practice java on VSC & dokojava, learning by free-contents<br>
 
 20220928<br>
 <br>
