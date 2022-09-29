@@ -424,10 +424,10 @@ practice java on VSC & dokojava<br>
 practice java on VSC & dokojava, learning by free-contents<br>
 
 20220928<br>
-<br>
+practice java with free-contents<br>
 
 20220929<br>
-<br>
+practice java with free-contents<br>
 
 20220930<br>
 <br>
