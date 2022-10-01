@@ -430,12 +430,12 @@ practice java with free-contents<br>
 practice java with free-contents<br>
 
 20220930<br>
-<br>
+practicce java on Eclipse<br>
 
 * October
 
 20221001<br>
-<br>
+practicce java on Eclipse<br>
 
 20221002<br>
 <br>
