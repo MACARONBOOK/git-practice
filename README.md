@@ -438,7 +438,7 @@ practicce java on Eclipse<br>
 practicce java on Eclipse<br>
 
 20221002<br>
-<br>
+adjust Eclipse(need to install adn prepare)<br>
 
 20221003<br>
 <br>
