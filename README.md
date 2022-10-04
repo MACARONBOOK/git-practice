@@ -441,10 +441,10 @@ practicce java on Eclipse<br>
 adjust Eclipse(need to install adn prepare)<br>
 
 20221003<br>
-<br>
+learn about Ngnix<br>
 
 20221004<br>
-<br>
+learning database(environment) <br>
 
 20221005<br>
 <br>
