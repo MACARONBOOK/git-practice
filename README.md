@@ -447,10 +447,10 @@ learn about Ngnix<br>
 learning database(environment) <br>
 
 20221005<br>
-<br>
+checking grammar<br>
 
 20221006<br>
-<br>
+checking how to create application with Java<br>
 
 20221007<br>
 <br>
