@@ -453,7 +453,7 @@ checking grammar<br>
 checking how to create application with Java<br>
 
 20221007<br>
-<br>
+checking readable-code on APP(git-properties)<br>
 
 20221008<br>
 <br>
