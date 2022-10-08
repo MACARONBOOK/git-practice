@@ -456,7 +456,7 @@ checking how to create application with Java<br>
 checking readable-code on APP(git-properties)<br>
 
 20221008<br>
-<br>
+checking grammar with textbook(Ruby)<br>
 
 20221009<br>
 <br>
