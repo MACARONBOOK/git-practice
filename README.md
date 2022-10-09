@@ -459,7 +459,7 @@ checking readable-code on APP(git-properties)<br>
 checking grammar with textbook(Ruby)<br>
 
 20221009<br>
-<br>
+practice java with textbook<br>
 
 20221010<br>
 <br>
