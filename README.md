@@ -462,10 +462,10 @@ checking grammar with textbook(Ruby)<br>
 practice java with textbook<br>
 
 20221010<br>
-<br>
+checking web-design<br>
 
 20221011<br>
-<br>
+checking knowledge of css<br>
 
 20221012<br>
 <br>
