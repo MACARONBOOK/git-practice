@@ -468,10 +468,10 @@ checking web-design<br>
 checking knowledge of css<br>
 
 20221012<br>
-<br>
+checking IT Literacy<br>
 
 20221013<br>
-<br>
+learning IT Literacy<br>
 
 20221014<br>
 <br>
