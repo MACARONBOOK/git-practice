@@ -477,7 +477,7 @@ learning IT Literacy<br>
 reading it-passport(studying for exam)<br>
 
 20221015<br>
-<br>
+skimming text for it-exam<br>
 
 20221016<br>
 <br>
