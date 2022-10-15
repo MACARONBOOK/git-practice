@@ -474,7 +474,7 @@ checking IT Literacy<br>
 learning IT Literacy<br>
 
 20221014<br>
-<br>
+reading it-passport(studying for exam)<br>
 
 20221015<br>
 <br>
