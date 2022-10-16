@@ -480,7 +480,7 @@ reading it-passport(studying for exam)<br>
 skimming text for it-exam<br>
 
 20221016<br>
-<br>
+practice it-passport for exam<br>
 
 20221017<br>
 <br>
