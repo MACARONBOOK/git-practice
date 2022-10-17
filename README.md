@@ -483,7 +483,7 @@ skimming text for it-exam<br>
 practice it-passport for exam<br>
 
 20221017<br>
-<br>
+practice java on eclipse(learning by text)<br>
 
 20221018<br>
 <br>
