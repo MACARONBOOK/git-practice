@@ -486,7 +486,7 @@ practice it-passport for exam<br>
 practice java on eclipse(learning by text)<br>
 
 20221018<br>
-<br>
+checking grammar by Ruby(variables), do movement on Portfolio<br>
 
 20221019<br>
 <br>
