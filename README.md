@@ -489,7 +489,7 @@ practice java on eclipse(learning by text)<br>
 checking grammar by Ruby(variables), do movement on Portfolio<br>
 
 20221019<br>
-<br>
+checking knowledge how can explain apps<br>
 
 20221020<br>
 <br>
