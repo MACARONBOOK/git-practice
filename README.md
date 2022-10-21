@@ -492,7 +492,7 @@ checking grammar by Ruby(variables), do movement on Portfolio<br>
 checking knowledge how can explain apps<br>
 
 20221020<br>
-<br>
+learning it-passport<br>
 
 20221021<br>
 <br>
