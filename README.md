@@ -498,7 +498,7 @@ learning it-passport<br>
 writing code on Eclipse(Java)<br>
 
 20221022<br>
-<br>
+learning java, feedback rule of Access<br>
 
 20221023<br>
 <br>
