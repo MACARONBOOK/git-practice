@@ -501,7 +501,7 @@ writing code on Eclipse(Java)<br>
 learning java, feedback rule of Access<br>
 
 20221023<br>
-<br>
+learning java, it-passport & solve problems<br>
 
 20221024<br>
 <br>
