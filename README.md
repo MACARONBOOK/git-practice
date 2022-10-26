@@ -510,7 +510,7 @@ learning Access(problems)<br>
 learning Access(problems)<br>
 
 20221026<br>
-<br>
+learning Java, get a bible how to think career<br>
 
 20221027<br>
 <br>
