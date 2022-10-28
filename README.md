@@ -513,10 +513,10 @@ learning Access(problems)<br>
 learning Java, get a bible how to think career<br>
 
 20221027<br>
-<br>
+practice problems of it-passport<br>
 
 20221028<br>
-<br>
+practice problems of it-passport<br>
 
 20221029<br>
 <br>
