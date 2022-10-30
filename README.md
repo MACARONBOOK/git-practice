@@ -519,13 +519,13 @@ practice problems of it-passport<br>
 practice problems of it-passport<br>
 
 20221029<br>
-<br>
+do practice with Eclipse<br>
 
 20221030<br>
-<br>
+reading book like programmar's life<br>
 
 20221031<br>
-<br>
+learning Access VBA<br>
 
 * November
 
