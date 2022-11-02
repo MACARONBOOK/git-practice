@@ -530,13 +530,13 @@ learning Access VBA<br>
 * November
 
 20221101<br>
-<br>
+reading program-text for it-passport<br>
 
 20221102<br>
-<br>
+learning VB<br>
 
 20221103<br>
-<br>
+learning it passport & practice problems<br>
 
 20221104<br>
 <br>
