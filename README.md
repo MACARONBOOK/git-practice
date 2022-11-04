@@ -539,7 +539,7 @@ learning VB<br>
 learning it passport & practice problems<br>
 
 20221104<br>
-<br>
+try to create with Access, practice<br>
 
 20221105<br>
 <br>
