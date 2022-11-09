@@ -548,13 +548,13 @@ try to create with Access, practice<br>
 <br>
 
 20221107<br>
-<br>
+start team-project(RubyonRails)<br>
 
 20221108<br>
-<br>
+create function related to user-login<br>
 
 20221109<br>
-<br>
+add CSS functions<br>
 
 20221110<br>
 <br>
