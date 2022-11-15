@@ -557,10 +557,10 @@ create function related to user-login<br>
 add CSS functions<br>
 
 20221110<br>
-<br>
+try password-change function<br>
 
 20221111<br>
-<br>
+test-check<br>
 
 20221112<br>
 <br>
@@ -569,7 +569,7 @@ add CSS functions<br>
 <br>
 
 20221114<br>
-<br>
+try mailer function→caution is bad-location<br>
 
 20221115<br>
 <br>
